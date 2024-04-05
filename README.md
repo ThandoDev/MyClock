@@ -1,4 +1,4 @@
-A Clock using HTML,CSS and JavaScript
+*A Clock using HTML,CSS and JavaScript*
 This is a simple clock.
 
 Project Details
